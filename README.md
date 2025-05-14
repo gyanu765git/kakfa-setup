@@ -75,11 +75,11 @@
 
 # bonus: intall UI(kafdrop) for it: 
 
-sudo docker run -d \
-  --name kafdrop \
-  --network host \
-  -e KAFKA_BROKERCONNECT=localhost:9092 \
-  obsidiandynamics/kafdrop
+	sudo docker run -d \
+	  --name kafdrop \
+	  --network host \
+	  -e KAFKA_BROKERCONNECT=localhost:9092 \
+	  obsidiandynamics/kafdrop
   
   
   
