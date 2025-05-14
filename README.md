@@ -1,7 +1,4 @@
-# kafka with zookeeper and UI kafdrop
-
-
-# install kafka with zookeeper in ubuntu 24.04
+# kafka with zookeeper and UI kafdrop in ubuntu 24.04
 
 # Install Java
 	1. sudo apt update
